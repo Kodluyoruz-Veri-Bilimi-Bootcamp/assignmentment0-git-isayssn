@@ -1,4 +1,4 @@
-# git_basics
+﻿# git_basics
 * Basics of git
 
 ----
@@ -26,3 +26,7 @@
 * git push origin master
 
 ----
+
+git clone (githubdaki url kopyala yapıştır)
+cd "assingment0-git-isayssn"   --> "" yerleri tab ile yapabilirsin
+"READme.md" yazınca notepadd açılacak ve githubdaki şeyleri almış olucaksın.
